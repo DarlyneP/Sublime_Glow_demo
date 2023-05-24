@@ -16,6 +16,12 @@ Demonstrations are presented from the most recent to the oldest so you'll have t
 You will also find the log (latest version) & the specifications at the end of this readme file. The log is also here for you to evaluate the actual pace at which this project is advancing considering that I am still in school at the moment meaning most of my time goes to my studies.
 
 # Stack
+## Front
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) , 
+Template engine : EJS
+
+## Back
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) , No ORM (I managed relationships between tables with SQL requests I personally designed).
 
 # Updates
 ## Jury Presentation (Approx 2 weeks of development, March 2023)
